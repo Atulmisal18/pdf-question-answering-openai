@@ -26,5 +26,5 @@ A Streamlit application that allows users to upload a PDF, ask questions, and re
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-question-answering-openai.git
+   git clone https://github.com/Atulmisal18/pdf-question-answering-openai.git
 
